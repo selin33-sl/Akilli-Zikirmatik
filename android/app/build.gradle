@@ -96,7 +96,7 @@ android {
 
     namespace "com.frontend"
     defaultConfig {
-        applicationId "com.pengona.akillizikirmatik"
+        applicationId "com.selin.akillizikirmatik"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 5
